@@ -5,3 +5,6 @@ This game was made with JavaFX. If you're trying to download and run it, make su
 ## Demo
 
 https://youtu.be/BxSUIxbaTS8
+
+![Screenshot](connect4.png)
+![Screenshot](connect4win.png)
